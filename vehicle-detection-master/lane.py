@@ -1,4 +1,4 @@
-"""Departure Warning System with a Monocular Camera"""
+"""Departure Warning System with a Monocular Camera(Edited by Map Inc)"""
 
 __author__ = "Junsheng Fu"
 __email__ = "junsheng.fu@yahoo.com"
